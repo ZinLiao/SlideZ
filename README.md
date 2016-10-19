@@ -3,7 +3,7 @@ My first jQuery plugin
 
 slideZ 0.1
 
-Copyright (c) 2016 Zin Leo http://ZinLeo.sinaapp.com/
+Copyright (c) 2016 Zin Leo https://zinleo.github.io
 
 Date: 2016.5.4
 
